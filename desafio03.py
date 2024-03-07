@@ -30,7 +30,7 @@ print(e)
 
 
 # f) Resposta: 20
-# 2, 10, 12, 16, 17, 18, 19, 20 (Sequência crescente com incremento variável)
+# 2, 10, 12, 16, 17, 18, 19, 20 (Sequência crescente com incremento )
 f = [2, 10, 12, 16, 17, 18, 19]
 f.append(f[-1] + 1)
 print(f)
